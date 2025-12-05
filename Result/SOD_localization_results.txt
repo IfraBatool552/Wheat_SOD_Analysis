@@ -1,0 +1,17 @@
+TraesCS2D02G123300.1 details cyto: 14 similar to seq SOD4_MAIZE of class cyto
+TraesCS7A02G090400.1 details chlo: 7, mito: 6, nucl: 1
+TraesCS2D02G538300.1 details mito: 8, chlo: 5, cyto: 1 similar to seq SODP_MAIZE of class mito
+TraesCS2B02G567600.1 details mito: 8, chlo: 3, nucl: 1, cyto: 1, plas: 1 similar to seq SODP_MAIZE of class mito
+TraesCS7B02G197300.1 details chlo: 10, mito: 4 similar to seq SODP_ORYSA of class chlo
+TraesCS2A02G537100.1 details mito: 8, chlo: 4, cyto: 1, plas: 1 similar to seq SODP_MAIZE of class mito
+TraesCS7D02G290700.1 details chlo: 10, mito: 4 similar to seq SODP_ORYSA of class chlo
+TraesCS7D02G290700.2 details chlo: 10, mito: 4 similar to seq SODP_ORYSA of class chlo
+TraesCS4B02G243200.1 details cyto: 13, nucl: 1 similar to seq At5g18100.1 of class pero
+TraesCS4B02G243200.2 details cyto: 13, nucl: 1
+TraesCS4A02G065800.1 details cyto: 13, nucl: 1 similar to seq SOD2_MESCR of class cyto
+TraesCS4A02G065800.2 details cyto: 12, nucl: 1, mito: 1
+TraesCS4D02G242800.1 details cyto: 14
+TraesCS4D02G242800.2 details cyto: 12, nucl: 1, extr: 1 similar to seq SOD2_MESCR of class cyto
+TraesCS7D02G086400.1 details chlo: 8, mito: 4, nucl: 2
+TraesCSU02G088800.1.cds1 details cyto: 8, mito: 2, nucl: 1.5, cysk_nucl: 1.5, chlo: 1, extr: 1
+TraesCS7A02G292100.1 details chlo: 9, mito: 5 similar to seq SODP_ORYSA of class chlo
