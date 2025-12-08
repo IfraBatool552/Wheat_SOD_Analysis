@@ -6,7 +6,7 @@
 **Scientific Context:**
 Wheat is a major global crop, but its yield is severely threatened by abiotic stress. The SOD gene family is the first line of antioxidant defense against Reactive Oxygen Species (ROS). This study utilizes computational biology (In-Silico) methods to "mine" the wheat genome for these defense genes.
 
-**Author:** [Ifra Batool]
+**Author:** Ifra Batool
 **Tools Used:** Python (Biopython, Pandas, Matplotlib, Seaborn), MEGA11, HMMER, WoLF PSORT.
 
 ---
@@ -81,4 +81,5 @@ This in-silico study successfully identified **17 TaSOD genes** in the wheat gen
     ```
 
 ---
+
 
